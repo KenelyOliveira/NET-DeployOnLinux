@@ -1,0 +1,11 @@
+C:\Users\Kenely\source\repos\netcore-linux\bin\Debug\netcoreapp2.0\netcore-linux.deps.json
+C:\Users\Kenely\source\repos\netcore-linux\bin\Debug\netcoreapp2.0\netcore-linux.runtimeconfig.json
+C:\Users\Kenely\source\repos\netcore-linux\bin\Debug\netcoreapp2.0\netcore-linux.runtimeconfig.dev.json
+C:\Users\Kenely\source\repos\netcore-linux\bin\Debug\netcoreapp2.0\netcore-linux.dll
+C:\Users\Kenely\source\repos\netcore-linux\bin\Debug\netcoreapp2.0\netcore-linux.pdb
+C:\Users\Kenely\source\repos\netcore-linux\obj\Debug\netcoreapp2.0\netcore-linux.csprojAssemblyReference.cache
+C:\Users\Kenely\source\repos\netcore-linux\obj\Debug\netcoreapp2.0\netcore-linux.csproj.CoreCompileInputs.cache
+C:\Users\Kenely\source\repos\netcore-linux\obj\Debug\netcoreapp2.0\netcore-linux.AssemblyInfoInputs.cache
+C:\Users\Kenely\source\repos\netcore-linux\obj\Debug\netcoreapp2.0\netcore-linux.AssemblyInfo.cs
+C:\Users\Kenely\source\repos\netcore-linux\obj\Debug\netcoreapp2.0\netcore-linux.dll
+C:\Users\Kenely\source\repos\netcore-linux\obj\Debug\netcoreapp2.0\netcore-linux.pdb
